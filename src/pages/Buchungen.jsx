@@ -3,7 +3,7 @@ import DashboardHeader from "../components/DashboardHeader";
 import SideBar from "../components/SideBar";
 import DashboardContent from "../components/DashboardContent";
 
-const Kunden = () => {
+const Buchungen = () => {
   return (
     <>
       <div className="max-w-[1920px] mx-auto flex min-h-screen overflow-hidden">
@@ -21,4 +21,4 @@ const Kunden = () => {
   );
 };
 
-export default Kunden;
+export default Buchungen;

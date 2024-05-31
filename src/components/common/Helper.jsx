@@ -12,12 +12,12 @@ export const sideTabs = [
     icon: <Suitcase />,
   },
   {
-    link: "/bhh",
+    link: "/Angebote",
     title: "Angebote",
     icon: <Ticket />,
   },
   {
-    link: "/ghyu",
+    link: "/Buchungen",
     title: "Buchungen",
     icon: <Save />,
   },
