@@ -46,7 +46,7 @@ const SideBar = () => {
               <p className="text-[13px] font-semibold text-black text-center mt-1">
                 Daten importieren
               </p>
-              <p className=" text-[9px] text-[#ADADAE]">
+              <p className="text-[9px] text-[#ADADAE]">
                 <u className="text-[#EC6707]">Datei aussuchen</u> oder hierher
                 ziehen.
               </p>

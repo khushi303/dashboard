@@ -12,7 +12,7 @@ const HomePage = () => {
           <div className="lg:h-[85px] sm:h-[60px] h-[40px] bg-white">
             <DashboardHeader />
           </div>
-          <div className="lg:max-h-[calc(100vh-85px)] content sm:max-h-[calc(100vh-60px)] max-h-[calc(100vh-40px)] w-full overflow-auto">
+          <div className="lg:min-h-[calc(100vh-104px)] content sm:max-h-[calc(100vh-60px)] max-h-[calc(100vh-40px)] w-full overflow-auto">
             <DashboardContent />
           </div>
         </div>
