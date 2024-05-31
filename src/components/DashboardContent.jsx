@@ -2,8 +2,12 @@ import React from 'react'
 
 const DashboardContent = () => {
   return (
-    <div className="lg:min-h-[calc(100vh-104px)] content sm:min-h-[calc(100vh-60px)] min-h-[calc(100vh-40px)] bg-[#F5F5F5]"></div>
+    <div className="md:max-h-[calc(100vh-104px)] content max-h-[calc(100vh-244px)] bg-[#F5F5F5]">
+      <div className="min-h-screen bg-slate-300"></div>
+      <div className="min-h-screen bg-slate-400"></div>
+      <div className="min-h-screen bg-slate-500"></div>
+    </div>
   );
 }
 
-export default DashboardContent
+export default DashboardContent 
